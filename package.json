@@ -9,13 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^2.1.2",
+    "axios": "^1.7.3",
     "clsx": "^2.1.1",
     "lucide-react": "^0.416.0",
     "next": "14.2.5",
+    "next-themes": "^0.3.0",
     "query-string": "^9.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "tailwind-merge": "^2.4.0"
+    "react-hot-toast": "^2.4.1",
+    "tailwind-merge": "^2.4.0",
+    "zustand": "^4.5.4"
   },
   "devDependencies": {
     "@types/node": "^20",
